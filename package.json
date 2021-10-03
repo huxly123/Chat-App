@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "server":"nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huxly123/Chat-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huxly123/Chat-App/issues"
+  },
+  "homepage": "https://github.com/huxly123/Chat-App#readme",
+  "dependencies": {
+    "socket.io": "^4.2.0"
+  }
+}
